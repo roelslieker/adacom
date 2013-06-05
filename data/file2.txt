@@ -1,0 +1,10 @@
+tiger
+snow leopard
+dog
+snake
+chicken
+duck
+cat
+cockroach
+butterfly
+

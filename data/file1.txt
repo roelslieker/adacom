@@ -1,0 +1,15 @@
+dog
+chimpansee
+cat
+human
+lion
+bear
+cockroach
+penguin
+mouse
+giraffe
+ant
+rabbit
+hummingbird
+panda
+
